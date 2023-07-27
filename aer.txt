@@ -1,0 +1,6 @@
+_____________________The Concept:
+// Feed:
+= Combines all the content of the tabs
+// Music:
+= Contains everything music (everything! articles, reviews, interviews, news, trending, throwbacks)
+= Contains a play feature where users can listen to a snippet of the song/album, this will link to streaming services where users will stream the full song (Business PARTNERSHIP Baby!)
